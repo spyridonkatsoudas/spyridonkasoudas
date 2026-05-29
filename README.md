@@ -37,5 +37,3 @@ I am a computational researcher focusing on the intersection of **Fluid Dynamics
 * **ResearchGate:** [Spyridon-Katsoudas](https://www.researchgate.net/profile/Spyridon-Katsoudas)
 * **ORCID:** [0009-0006-7700-7261](https://orcid.org/0009-0006-7700-7261)
 * **Email:** s.katsoudas@uoi.gr
-
-> *"Advancing cardiovascular care through computational speed and mathematical rigor."*
