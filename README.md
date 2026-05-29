@@ -1,4 +1,5 @@
 Spyridon C. Katsoudas, Mathematician. PhD Candidate
+
 ### 🚀 PhD Candidate in Applied Mathematics & Computational Biomechanics
 
 I am a computational researcher focusing on the intersection of **Fluid Dynamics**, **Machine Learning**, and **Cardiovascular Pathology**[cite: 2]. My work bridges the gap between rigorous applied mathematics and clinical translation, aiming to accelerate high-fidelity Computational Fluid Dynamics (CFD) simulations to better understand complex blood flow patterns, turbulence, and arterial disease[cite: 2].
